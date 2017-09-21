@@ -2,5 +2,5 @@
 
 ## Secomp UFSCar
 
-descrição 
+descrição alterada
 
