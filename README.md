@@ -1,4 +1,4 @@
-# Workshop Èpico
+# Workshop Épico
 
 ## Secomp UFSCar
 
